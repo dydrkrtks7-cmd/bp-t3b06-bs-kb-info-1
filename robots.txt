@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeonnam-coin-karaoke-note.hwagok-karaoke-insider.xyz/sitemap.xml
